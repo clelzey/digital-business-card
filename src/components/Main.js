@@ -9,7 +9,7 @@ function Title() {
             <img className="title--profile-img" src={profileImg} alt="Woman in purple shirt" />
             <h1 className="title--name">Christy Elzey</h1>
             <p className="title--position">Frontend Developer</p>
-            <a href="https://clelzey.github.io/resume/"
+            <a href="https://clelzey.github.io/personal-website/"
                className="title--website"
                target="_blank"
                rel="noopener noreferrer"
