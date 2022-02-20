@@ -35,7 +35,7 @@ function BioInfo() {
             <h2 className="bio-info--title">About</h2>
             <p className="bio-info--text">I am a frontend developer with a particular interest in design and UI. I am always looking for new things to learn.</p>
             <h2 className="bio-info--title">Interests</h2>
-            <p className="bio-info--text">Food expert. Reader. Internet enthusiast. Bacon buff. TV/Movie geek. GIS ninja. Coffee fanatic.</p>
+            <p className="bio-info--text">Foodie Supreme. Reader. Internet enthusiast. Bacon buff. TV/Movie geek. GIS ninja. Coffee fanatic.</p>
         </div>
     )
 }
