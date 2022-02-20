@@ -3,7 +3,7 @@
 }
 
 body {
-    background: #23252C;
+    background: #04293A;
     color: #FFFFFF;
     padding: 0;
     margin: 0;
@@ -17,7 +17,7 @@ a {
 .business-card {
     margin: 45px auto;
     max-width: 317px;
-    background: #1A1B21;
+    background: #064663;
     border-radius: 10px;
     overflow: hidden;
 }
@@ -33,12 +33,13 @@ a {
 .title--name {
     font-weight: 700;
     font-size: 25px;
-    margin: 21px 0 0;
+    margin: 20px 0 0;
 }
 
 .title--position {
-    color: #F3BF99;
+    color: #FF9F45;
     font-size: 13px;
+    letter-spacing: 1px;
     margin: 7px 0 0;
 }
 
@@ -60,7 +61,7 @@ a {
     display: inline-block;
     text-decoration: none;
     background: #FFFFFF;
-    color: #374151;
+    color: #041C32;
     font-weight: 500;
     font-size: 14px;
     /* border: 1px solid #D1D5DB; */
@@ -87,7 +88,7 @@ a {
 /* Bio Info */
 
 .bio-info {
-    padding: 35px;
+    padding: 10px 35px 20px;
     text-align: left;
 }
 
@@ -109,7 +110,7 @@ a {
 /* Social Icons Footer */
 
 .socials {
-    background: #161619;
+    background: #041C32;
     padding: 20px 0 10px;
     text-align: center;
     /* border-radius: 0 0 10px 10px; */
@@ -118,7 +119,7 @@ a {
 
 .socials--icons {
     max-width: 175px;
-    margin: 0 auto 20px;
+    margin: 0 auto 15px;
     display: flex;
     justify-content: space-between
 }
@@ -138,5 +139,4 @@ a {
 .copyright {
     font-size: 10px;
     color: #918E9B;
-    padding-top: 10px;
 }
