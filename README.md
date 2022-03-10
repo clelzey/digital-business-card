@@ -1,70 +1,90 @@
-# Getting Started with Create React App
+# Scrimba Frontend Developer Career Path - Digital Business Card solo project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a solution to the [Scrimba FDCP - Module 11.1 Solo Project: Digital Business Card
+](https://www.figma.com/file/4ctPLUvIn5b5Ep6YPOZWWd/Digital-Business-Card?node-id=0%3A1).
+Scrimba Solo Projects challenge you improve your coding skills by building realistic projects.
 
-## Available Scripts
+## Table of contents
 
-In the project directory, you can run:
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshots](#screenshots)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+- [Author](#author)
+- [Acknowledgments](#acknowledgments)
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Overview
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### The challenge
 
-### `npm test`
+Requirements:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Build from scratch!
+- Fill in your own information
+- Separate components for:
+  - Info (photo, name, buttons, etc.)
+  - About
+  - Interests
+  - Footer (social icons)
 
-### `npm run build`
+![](./img/figma-design-digital-business-card.png)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Screenshots
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+My solution:
 
-### `npm run eject`
+![](./img/app-capture.png)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### Links
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- Solution URL: [GitHub Repository](https://github.com/clelzey/digital-business-card)
+- Live Site URL: [GitHub Page](https://clelzey.github.io/digital-business-card/)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## My process
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### Built with
 
-## Learn More
+- [React](https://reactjs.org/) - JS library
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and
+published to GitHub with [React GitHub Pages](https://github.com/gitname/react-gh-pages).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+### What I learned
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+This is my first project using React. It uses multiple components to render the digital business card.
+After finishing the project I realized I hadn't created each of the components that were part of the project.
+However, the design was completed. I had a lot of fun adding the glowing hover to my buttons and social icons.
 
-### Analyzing the Bundle Size
+## Author
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+- Website - [Christy Elzey](https://clelzey.github.io/digital-business-card/)
+- GitHub - [@clelzey](https://github.com/clelzey/)
+- Twitter - [@codeMuse2](https://twitter.com/codeMuse2)
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## Acknowledgments
 
-### Advanced Configuration
+Thanks to the amazing teachers over at [Scrimba](https://scrimba.com/), their courses have been incredible in teaching
+me the skills needed to complete this solo project. The Frontend Developer Career Path has so much content. It is constantly
+updated with new challenges and current information. Definitely worth the Pro Membership.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+### Supporting Scrimba
 
-### Deployment
+Since 2017, we have created over 20 free courses on Scrimba, and we're going to
+continue launching free courses. But to pay our bills, we have to charge once
+in a while. So if you've ever wanted to "give back" to Scrimba, you can do that by buying
+one of our paid courses
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+- [Become a professional React developer](https://scrimba.com/course/greact)
+- [The Responsive Web Design Bootcamp](https://scrimba.com/course/gresponsive)
+- [The Ultimate JavaScript Bootcamp](https://scrimba.com/course/gjavascript)
 
-### `npm run build` fails to minify
+  It would also mean the world to us if you share the courses.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Happy Coding!
